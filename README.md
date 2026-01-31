@@ -120,6 +120,17 @@ O repositório inclui uma imagem do **grafo resultante**, após a execução dos
 
 ![Imagem Grafos Final](visualisation.png)
 
+## 📊 Resultado das Recomendações – Top 3 Cidades por Cliente
+
+
+| Cliente    | 1ª Recomendação (Score)        | 2ª Recomendação (Score)     | 3ª Recomendação (Score)   |
+|------------|--------------------------------|-----------------------------|---------------------------|
+| Alef       | Florianópolis (26)             | —                           | —                         |
+| Gabriel    | Buenos Aires (51)              | Paris (51)                  | Roma (51)                 |
+| Geovanna   | Florianópolis (51)             | Barcelona (30)              | Atenas (25)               |
+| Tati       | Buenos Aires (51)              | Paris (51)                  | Roma (51)                 |
+| Thatiane   | Paris (50)                     | Londres (45)                | Veneza (45)               |
+| Vivi       | Florianópolis (44)             | Barcelona (39)              | Atenas (25)               |
 
 ---
 
